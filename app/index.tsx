@@ -120,8 +120,8 @@ const login = () => {
             const response = await axios.post(
               "https://api.hetuv2x.com/vehicle-openapi/sys/login",
               {
-                appCid: "8d538bc8c833454b81366d0f2289e4a2",
-                appSecret: "22e3cd08051c3a82e75f0e369d9e0126",
+                appCid: ,
+                appSecret: ,
               },
               {
                 headers: {
